@@ -16,6 +16,6 @@ Last ThanksGiving day, we went to NewYork City, next we plan to tour US and othe
 
 ## Social
 
-My facebook Home page [Facebook](https://www.facebook.com/).
+My facebook Homepage [Facebook](https://www.facebook.com/).
 And I am working on love memory [homepage](https://ludanlovefang.github.io/)!
 
