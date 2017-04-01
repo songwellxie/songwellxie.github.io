@@ -17,7 +17,7 @@ There are many containers to start at the same time while running hadoop applica
 I set up the kubenetes cluster on Cloudlab, note that kubernets is still under active development . [Kube-cluster](kube-cluster.pdf)
 
 ## Cloudlab
-
+* Cloud set
 I give specific details about how initilize the machine image for starters on Cloudlab, and use the installation of docker hadoop as example. [Cloudlab-install](Cloudlab-install.pdf)
 ---
 
