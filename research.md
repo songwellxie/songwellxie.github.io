@@ -3,8 +3,21 @@ layout: default
 ---
 
 ## Graduate 
-I am doing the container technology on cloud platform to improve the resource utilization and work performance. 
+I am doing the container technology on cloud platform to improve the resource utilization and work performance. There are some lab guides about docker and kubernetes. Note that all guides were made assume the readers have the fundamental linux system background, and know the [CloudLab](https://cloudlab.us/)
 
+## Docker
+* YARN with docker container test
+Here I test the different version of hadoop-docker images, and solve the possible error. [Hadoop-Docker](Hadoop-Docker.pdf)
+
+* Catch the docker container logs 
+There are many containers to start at the same time while running hadoop applications. So I write a report use netcat to show how to measure the life cycle of hadoop contaniers and get the logs. [Container](Container-log.pdf)
+
+## Kubenetes 
+* Kubenetes Cluster
+I set up the kubenetes cluster on Cloudlab, note that kubernets is still under active development . [Kube-cluster](kube-cluster.pdf)
+
+## Cloudlab
+I give specific details about how initilize the machine image for starters on Cloudlab, and use the installation of docker hadoop as example. [Cloudlab-install](Cloudlab-install.pdf)
 ---
 
 ## Undergraduate
