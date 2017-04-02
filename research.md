@@ -43,4 +43,4 @@ Taking the professional course Wireless Communications: Principles and Applicati
 
 I also take Computer Network,for the interest in the lesson itself and its mentor Prof. Weijia Jia, too. I think the technology of information and computer science is a auxiliary tool for the power system and the power engineers and researchers could learn from it but not to lose the attribute of power systems itself. As a good chance to get the tough warm-up,I have full enthusiasm working on the cyber security of smart grid, mainly concern on the Advanced Metering Infrastructure (AMI). To be more precise, I just focus on the communication of smart meter. What a magic thing from scientist. I want to get some idea of communication protocol concerns with security and privacy of metering data on smart meter's communication. 
 
-<img src="component.png" width=70%>
+<img src="component.png">
