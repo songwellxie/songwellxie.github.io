@@ -3,26 +3,27 @@ layout: default
 ---
 
 ## Graduate 
-I am doing the container technology on cloud platform to improve the resource utilization and work performance. There are some lab guides about docker and kubernetes. Note that all guides were made assume the readers have the fundamental linux system background, and know the [CloudLab](https://cloudlab.us/)
+I am doing the container technology on cloud platform to improve the resource utilization and work performance. There are some lab guides about docker and kubernetes. Note that all guides were made assume the readers have the fundamental linux system background, and know the [CloudLab](https://cloudlab.us/).
 
 ### Docker
 * YARN with docker container test
-Here I test the different version of hadoop-docker images, and solve the possible error. [Hadoop-Docker](Hadoop-Docker.pdf)
+Here I test the different version of hadoop-docker images, and solve the possible error. See [Hadoop-Docker](Hadoop-Docker.pdf).
 
 * Catch the docker container logs 
-There are many containers to start at the same time while running hadoop applications. So I write a report use netcat to show how to measure the life cycle of hadoop contaniers and get the logs. [Container](Container-log.pdf)
+There are many containers to start at the same time while running hadoop applications. So I write a report use netcat to show how to measure the life cycle of hadoop contaniers and get the logs. [Container](Container-log.pdf).
 
 ### Kubenetes 
 * Kubenetes Cluster
-I set up the kubenetes cluster on Cloudlab, note that kubernets is still under active development . [Kube-cluster](kube-cluster.pdf)
+I set up the kubenetes cluster on Cloudlab, note that kubernets is still under active development. [Kube-cluster](kube-cluster.pdf).
 
 ### Cloudlab
 * Cloud set
-I give specific details about how initilize the machine image for starters on Cloudlab, and use the installation of docker hadoop as example. [Cloudlab-install](Cloudlab-install.pdf)
+I give specific details about how initilize the machine image for starters on Cloudlab, and use the installation of docker hadoop as example. [Cloudlab-install](Cloudlab-install.pdf).
+
 ---
 
 ## Undergraduate
-As a student of IEEE Class, I was privileged to research under the direction of respectful and brilliant professors from varied fields of ECE, Since I was a freshman in Mar,2013. My past concerned with interdisciplinary across the fields of electric power system and information technology.
+As a student of IEEE Class, I was privileged to research under the direction of respectful and brilliant professors from varied fields of ECE, Since I was a freshman in Mar,2013. My past concerned with interdisciplinary across the fields of electric power system and information technology. You can get more about my academic development from [here](More about undergraduate.pdf).
 
 ### Electrical Power System & Electronics
 * Power Operation & Market
@@ -41,3 +42,4 @@ Taking the professional course Wireless Communications: Principles and Applicati
 * Security of Smart metering
 
 I also take Computer Network,for the interest in the lesson itself and its mentor Prof. Weijia Jia, too. I think the technology of information and computer science is a auxiliary tool for the power system and the power engineers and researchers could learn from it but not to lose the attribute of power systems itself. As a good chance to get the tough warm-up,I have full enthusiasm working on the cyber security of smart grid, mainly concern on the Advanced Metering Infrastructure (AMI). To be more precise, I just focus on the communication of smart meter. What a magic thing from scientist. I want to get some idea of communication protocol concerns with security and privacy of metering data on smart meter's communication. 
+<img class="profile-picture" src="component.png">
