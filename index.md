@@ -29,5 +29,5 @@ Shanxie6622ATgmail.com
 #### More ####
 More details from [CV]().
 
-<a href="https://clustrmaps.com/site/19gdx" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&d=WixHUcZX2ILGfghQM2UN-vlCEzLPnpFG4WCMUOd-qPY" /></a>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&d=WixHUcZX2ILGfghQM2UN-vlCEzLPnpFG4WCMUOd-qPY'></script>
 
