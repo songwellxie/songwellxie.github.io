@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="me.jpg">
+<img class="profile-picture" src="/img/profile.jpg">
 
 I am currently a first-year PhD student of Computer Science at University of Massachusetts Boston, US. 
 
