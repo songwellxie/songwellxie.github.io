@@ -2,20 +2,19 @@
 layout: default
 ---
 
-## Home
+## Hobby
 
-I live in Boston with my girlfriend Freida, a freshman in Business Management. We enjoy hanging out and eating:). And I am trying to improve my photography skill. 
+I like cooking myself, for health and also gym---I am also working on my body building. 
+
+I enjoy swimming( Had been to walden pond, Green lake in seattle) and running( Bostonharbor, Charles River).
 
 ---
 
 ## Tour
 
-Last ThanksGiving day, we went to NewYork City, next we plan to tour US and other more places!
+I have been to New York, Seattle, San Francisco.
 
 ---
 
-## Social
 
-My facebook Homepage [Facebook](https://www.facebook.com/).
-And I am working on love memory homepage!
 
