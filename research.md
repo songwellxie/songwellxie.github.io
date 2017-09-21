@@ -23,7 +23,20 @@ I give specific details about how initilize the machine image for starters on Cl
 ---
 
 ## Undergraduate
-As a student of IEEE Class, I was privileged to research under the direction of respectful and brilliant professors from varied fields of ECE, Since I was a freshman in Mar,2013. My past concerned with interdisciplinary across the fields of electric power system and information technology. You can get more about my academic development from [here](More about undergraduate.pdf).
+I have acquired a strong EE background both in Power and Information Engineering. And CS courses are also complement to the fields of EE. Based on these courses, I am doing some inter-disciplinary researches under the direction of various brilliant professors affiliated with EE \& CS. 
+
+Primarily, I do focus on the Smart Grid-----with the development of traditional power system into smart grid, the revolution also arouse many serious problem for a relatively open and volatile system, particularly for the integration of renewable resources, for example, the security issue caused by some malicious attack, the privacy of users’ data , etc. Moreover, the convenience and fastness of real-time information exchange may cause a series of challenge to the current plan and operation of power system, and further concern with power investment and economics. 
+
+### Information & Computer Science
+* Academic Paper System Database AceMap
+
+Homepage is [here](http://acemap.sjtu.edu.cn/)
+Supervised via Prof. Xinbing Wang, I took up for the academic database, and set up the dataware house for the academic paper system, then finished my thesis. 
+
+* Crowd-Sourcing
+
+Taking the professional course Wireless Communications: Principles and Applications, guided by Prof. Xinbing Wang &Prof. Xiaohua Tian. I have been occupied in the study of crowd-sourcing on wireless mobile application guided by Prof.Tian. The reason I choose the topic is the willing to touch more maths and fundamental theory, which also help me in data analysis to some content. What I do now is estimating the current incentive mechanism in crowd-sourcing and try to figure a novel way to perform high-quality & cost-efficiency both. 
+
 
 ### Electrical Power System & Electronics
 * Power Operation & Market
@@ -34,13 +47,12 @@ Under the direction of Prof. ChuanWen Jiang, I currently occupied with short-ter
 
 At the begining of 2015, I joined the laboratory led by Prof. Yong Wang, to get some primary experience of power electronics. I am working on a new topology based on traditional three-level neutral-point clamped inverter theory and confirm it in practice, as a sub-project of the project "A study of Self-adaptive Digital drive of Multi-MW Wind Power Converters"supervised by Prof.Wang of NSF China. The new topology expects to improve the working efficiency and eliminate the dead interval.
 
-### Information & Computer Science
-* Crowd-Sourcing
+### Inter-filed
 
-Taking the professional course Wireless Communications: Principles and Applications, guided by Prof. Xinbing Wang &Prof. Xiaohua Tian. I have been occupied in the study of crowd-sourcing on wireless mobile application guided by Prof.Tian. The reason I choose the topic is the willing to touch more maths and fundamental theory, which also help me in data analysis to some content. What I do now is estimating the current incentive mechanism in crowd-sourcing and try to figure a novel way to perform high-quality & cost-efficiency both. 
+* Data Security of Advanced Metering Infrastructure (AMI)
 
-* Security of Smart metering
+I decided to focus on the AMI as my course project of computer network, in communication level. And my biggest point is that I dig it from the fundamental thing----Smart Meter. I analyzed and set up a model for smart meter, then try to find corresponding mechanisms for its security issues. And I want to get some idea of communication protocol concerns with security and privacy of metering data on smart meter's communication. 
 
-I also take Computer Network,for the interest in the lesson itself and its mentor Prof. Weijia Jia, too. I think the technology of information and computer science is a auxiliary tool for the power system and the power engineers and researchers could learn from it but not to lose the attribute of power systems itself. As a good chance to get the tough warm-up,I have full enthusiasm working on the cyber security of smart grid, mainly concern on the Advanced Metering Infrastructure (AMI). To be more precise, I just focus on the communication of smart meter. What a magic thing from scientist. I want to get some idea of communication protocol concerns with security and privacy of metering data on smart meter's communication. 
+* Crowdsourcing & Data Center
 
-<img src="component.png">
+I studied the basic mathematic theory about the crowd-sourcing at the game theory point, and it came out to me that I may just take the advantage of large number of metering information in power system to do some things. And for data center, how to collocation with these energy-consuming monsters to reduce the cost is currently my interest. 
