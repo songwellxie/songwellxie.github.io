@@ -12,7 +12,7 @@ Prior to this, I got my bachelor degree in Electrical Engineering and second maj
 
 ## Research Interest
 
-I am working on NFC & RFID, while I am also interested in cloud & container applications, includes Hadoop, Docker. 
+I am working on NFC & Barcode, while I am also broadly interested in cloud & container applications, includes kubernetes & docker; and smart grid & home.
 
 ## Contact
 
