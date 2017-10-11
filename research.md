@@ -41,7 +41,7 @@ Taking the professional course Wireless Communications: Principles and Applicati
 ### Electrical Power System & Electronics
 * Power Operation & Market
 
-Under the direction of Prof. ChuanWen Jiang[http://eei.sjtu.edu.cn/en/Show.aspx?info_id=424&info_lb=326&flag=282], I currently occupied with short-term load forecasting by using Data Mining, based on the development state of one town. I try to dig a mechanism between economic component and load consuming of one town when making generation plan. And the idea struck me when I participated in the research project,"Modeling and Application of Transition of Dual Economics in Henan State Grid", supported by National State Grid of Henan Province.
+Under the direction of Prof. [ChuanWen Jiang](http://eei.sjtu.edu.cn/en/Show.aspx?info_id=424&info_lb=326&flag=282), I currently occupied with short-term load forecasting by using Data Mining, based on the development state of one town. I try to dig a mechanism between economic component and load consuming of one town when making generation plan. And the idea struck me when I participated in the research project,"Modeling and Application of Transition of Dual Economics in Henan State Grid", supported by National State Grid of Henan Province.
 
 * Three-Phase Grid-Connected Inverter of PV
 
