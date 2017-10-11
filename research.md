@@ -2,8 +2,10 @@
 layout: default
 ---
 
-## Graduate 
-I am doing the container technology on cloud platform to improve the resource utilization and work performance. There are some lab guides about docker and kubernetes. Note that all guides were made assume the readers have the fundamental linux system background, and know the [CloudLab](https://cloudlab.us/).
+## Current Research 
+I maily take responsibility for the NFC system design and develplement, while I am also intersted in other areas of research, includes docker, smart grid. 
+
+Note that all guides were made assume the readers have the fundamental linux system background, and know the [CloudLab](https://cloudlab.us/).
 
 ### Docker
 * YARN with docker container test
