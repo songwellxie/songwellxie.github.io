@@ -5,6 +5,10 @@ layout: default
 ## Current Research 
 I maily take responsibility for the NFC system design and develplement, while I am also intersted in other areas of research, includes docker, smart grid. 
 
+### ZXing Code
+
+Decode Architecture Analysis [PPT](Zxing-code.pdf) 
+
 Note that all guides were made assume the readers have the fundamental linux system background, and know the [CloudLab](https://cloudlab.us/).
 
 ### Docker
