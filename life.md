@@ -5,7 +5,7 @@ layout: default
 ## Hobby
 
 I like cooking myself, for health and also gym---I am also working on my body building. And I enjoy swimming and running.
-
+I also like 電惡童 at Milwaukee. 
 
 ## Tour
 
