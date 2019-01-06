@@ -39,9 +39,10 @@ Primarily, I do focus on the Smart Grid-----with the development of traditional 
 Homepage is [here](http://acemap.sjtu.edu.cn/)
 Supervised via Prof. Xinbing Wang, I took up for the academic database, and set up the dataware house for the academic paper system, then finished my thesis. 
 
+<!--- 
 * Crowd-Sourcing
-
 Taking the professional course Wireless Communications: Principles and Applications, guided by Prof. Xinbing Wang &Prof. Xiaohua Tian. I have been occupied in the study of crowd-sourcing on wireless mobile application guided by Prof.Tian. The reason I choose the topic is the willing to touch more maths and fundamental theory, which also help me in data analysis to some content. What I do now is estimating the current incentive mechanism in crowd-sourcing and try to figure a novel way to perform high-quality & cost-efficiency both. 
+-->
 
 
 ### Electrical Power System & Electronics
@@ -51,7 +52,7 @@ Under the direction of Prof. [ChuanWen Jiang](http://eei.sjtu.edu.cn/en/Show.asp
 
 * Three-Phase Grid-Connected Inverter of PV
 
-At the begining of 2015, I joined the laboratory led by Prof. Yong Wang, to get some primary experience of power electronics. I am working on a new topology based on traditional three-level neutral-point clamped inverter theory and confirm it in practice, as a sub-project of the project "A study of Self-adaptive Digital drive of Multi-MW Wind Power Converters"supervised by Prof.Wang of NSF China. The new topology expects to improve the working efficiency and eliminate the dead interval.
+Led by Prof. Yong Wang, I am working on a new topology based on traditional three-level neutral-point clamped inverter theory and confirm it in practice, as a sub-project of the project "A study of Self-adaptive Digital drive of Multi-MW Wind Power Converters"supervised by Prof.Wang of NSF China. The new topology expects to improve the working efficiency and eliminate the dead interval.
 
 ### Inter-filed
 
