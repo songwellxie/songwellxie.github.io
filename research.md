@@ -1,8 +1,13 @@
 ---
 layout: default
 ---
-
 ## Current Research 
+
+### SMC in the Smart Grid
+
+### Data Prirvacy
+
+## Previous Research Before PhD
 I maily take responsibility for the NFC system design and develplement, while I am also intersted in other areas of research, includes docker, smart grid. 
 
 ### ZXing Code
