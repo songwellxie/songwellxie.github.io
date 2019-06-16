@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="/img/profile.jpg">
 
-Currently I am a PhD student of Computer Science at Illinois Tech. I am fortunate to be supervised via Prof. [Yuan Hong](http://cs.iit.edu/~yhong/).
+Currently I am a PhD student of Computer Science at Illinois Institute of Technology. I am fortunate to be supervised via Prof. [Yuan Hong](http://cs.iit.edu/~yhong/).
 
 I previously worked as research assistant of Deparment of Computing at HK PolyU. My advisor is Prof. [Lei Yang](http://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about). 
 
