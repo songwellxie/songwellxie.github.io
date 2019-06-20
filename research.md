@@ -58,7 +58,7 @@ Taking the professional course Wireless Communications: Principles and Applicati
 
 * Three-Phase Grid-Connected Inverter of PV
 
-Led by Prof. Yong Wang, I am working on a new topology based on traditional three-level neutral-point clamped inverter theory and confirm it in practice, as a sub-project of the project "A study of Self-adaptive Digital drive of Multi-MW Wind Power Converters"supervised by Prof.Wang of NSF China. The new topology expects to improve the working efficiency and eliminate the dead interval.
+<!--Led by Prof. Yong Wang, I am working on a new topology based on traditional three-level neutral-point clamped inverter theory and confirm it in practice, as a sub-project of the project "A study of Self-adaptive Digital drive of Multi-MW Wind Power Converters"supervised by Prof.Wang of NSF China. The new topology expects to improve the working efficiency and eliminate the dead interval.
 
 ### Inter-filed
 
