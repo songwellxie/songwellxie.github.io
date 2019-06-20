@@ -4,7 +4,7 @@ layout: default
 
 ## Hobby
 
-I like cooking myself, and also gym---I am also working on my body building. And I enjoy swimming and running. 
+I like cooking, and also working out . And I enjoy swimming and running. 
 
 ## Other
 
