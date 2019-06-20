@@ -37,7 +37,7 @@ I give specific details about how initilize the machine image for starters on Cl
 I have acquired a strong EE background both in Power and Information Engineering. And CS courses are also complement to the fields of EE. 
 
 
-<!--Primarily, I do focus on the Smart Grid-----with the development of traditional power system into smart grid, the revolution also arouse many serious problem for a relatively open and volatile system, particularly for the integration of renewable resources, for example, the security issue caused by some malicious attack, the privacy of users’ data , etc. Moreover, the convenience and fastness of real-time information exchange may cause a series of challenge to the current plan and operation of power system, and further concern with power investment and economics. 
+<!--Primarily, I do focus on the Smart Grid-----with the development of traditional power system into smart grid, the revolution also arouse many serious problem for a relatively open and volatile system, particularly for the integration of renewable resources, for example, the security issue caused by some malicious attack, the privacy of users’ data , etc. Moreover, the convenience and fastness of real-time information exchange may cause a series of challenge to the current plan and operation of power system, and further concern with power investment and economics. -->
 
 ### Information & Computer Science
 * Academic Paper System Database AceMap
@@ -58,14 +58,14 @@ Taking the professional course Wireless Communications: Principles and Applicati
 
 * Three-Phase Grid-Connected Inverter of PV
 
-<!--Led by Prof. Yong Wang, I am working on a new topology based on traditional three-level neutral-point clamped inverter theory and confirm it in practice, as a sub-project of the project "A study of Self-adaptive Digital drive of Multi-MW Wind Power Converters"supervised by Prof.Wang of NSF China. The new topology expects to improve the working efficiency and eliminate the dead interval.
+<!--Led by Prof. Yong Wang, I am working on a new topology based on traditional three-level neutral-point clamped inverter theory and confirm it in practice, as a sub-project of the project "A study of Self-adaptive Digital drive of Multi-MW Wind Power Converters"supervised by Prof.Wang of NSF China. The new topology expects to improve the working efficiency and eliminate the dead interval.-->
 
 ### Inter-filed
 
 * Data Security of Advanced Metering Infrastructure (AMI)
 
-<!--I decided to focus on the AMI as my course project of computer network, in communication level. And my biggest point is that I dig it from the fundamental thing----Smart Meter. I analyzed and set up a model for smart meter, then try to find corresponding mechanisms for its security issues. And I want to get some idea of communication protocol concerns with security and privacy of metering data on smart meter's communication. 
+<!--I decided to focus on the AMI as my course project of computer network, in communication level. And my biggest point is that I dig it from the fundamental thing----Smart Meter. I analyzed and set up a model for smart meter, then try to find corresponding mechanisms for its security issues. And I want to get some idea of communication protocol concerns with security and privacy of metering data on smart meter's communication. -->
 
 * Crowdsourcing & Data Center
 
-<!--I studied the basic mathematic theory about the crowd-sourcing at the game theory point, and it came out to me that I may just take the advantage of large number of metering information in power system to do some things. And for data center, how to collocation with these energy-consuming monsters to reduce the cost is currently my interest. 
+<!--I studied the basic mathematic theory about the crowd-sourcing at the game theory point, and it came out to me that I may just take the advantage of large number of metering information in power system to do some things. And for data center, how to collocation with these energy-consuming monsters to reduce the cost is currently my interest. -->
