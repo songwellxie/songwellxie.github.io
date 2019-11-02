@@ -6,12 +6,13 @@ layout: default
 ### Real-time Secure Multiparty Computation Systems in the Smart Grid
 * Design MPC protocols for load balancing/energy trading/energy sharing
 * Develop the real-time prototype which integrates MPC protocols with power emulation system
-### Differentially Privacy Data Sanitization
+
+### Differentially Private Data Sanitization
 * Design sampling based DP schemes for fine-grained vehicle trajectory data, and conduct experiments
 * Implement the video analysis platform with differential privacy guarantee  
 * Implement machine learning related experiments with DP
 
-### Multi-view Outsourcing Platform for Prefix-preserving Data}
+### Multi-view Outsourcing Platform for Prefix-preserving Data
 * Propose a general prefix-aware encoding scheme with prefix-preserving encryption
 * Design a generalized multi-view outsourcing scheme against inference attacks
 
