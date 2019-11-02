@@ -18,7 +18,7 @@ My reserach foucses on SMC protcol and Data Privacy, while I am also broadly int
 
 ## Selected Publications 
 1. **Shangyu Xie**, Yuan Hong and Peng-Jun Wan. "PAIRING: Privately Balancing Multiparty Real-time Supply and Demand on the Power Grid." *IEEE Transactions on Information Forensics and Security (**TIFS**)*, Accepted, 2019.
-2. "**Shangyu Xie**, Yuan Hong and Peng-Jun Wan. A Privacy Preserving Multiagent System for Load Balancing in the Smart Grid." In *Proceedings of the 18th International Conference on Autonomous Agents and Multiagent Systems (**AAMAS '19**)*, 2019. 
+2. **Shangyu Xie**, Yuan Hong and Peng-Jun Wan. "A Privacy Preserving Multiagent System for Load Balancing in the Smart Grid." In *Proceedings of the 18th International Conference on Autonomous Agents and Multiagent Systems (**AAMAS '19**)*, 2019. 
 
 ## Contact
 
