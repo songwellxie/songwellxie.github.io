@@ -14,7 +14,7 @@ I got my bachelor degree in Electrical Engineering and second major in Informati
 
 ## Research Interest
 
-My reserach foucses on SMC protcol and Data Privacy, while I am also broadly interested in cloud & container applications, includes kubernetes & docker; and mobile systems, etc.
+My reserach foucses on Secure Multiparty Computation, Differential Privacy, Anonymity, while I am also broadly interested in IoT, smart grid, cloud computing, etc..
 
 ## Selected Publications 
 1.  **Shangyu Xie**, Yuan Hong and Peng-Jun Wan. "PAIRING: Privately Balancing Multiparty Real-time Supply and Demand on the Power Grid." *IEEE Transactions on Information Forensics and Security (**TIFS**)*, Accepted, 2019.
@@ -23,6 +23,7 @@ My reserach foucses on SMC protcol and Data Privacy, while I am also broadly int
 ## Contact
 
 Address: Department of Computer Science, IIT, Chicago, IL.
+
 Email: Shanxie6622ATgmail.com
 
 
