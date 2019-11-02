@@ -12,8 +12,8 @@ layout: default
 * Implement machine learning related experiments with DP
 
 ### Multi-view Outsourcing Platform for Prefix-preserving Data}
-	\item Propose a general prefix-aware encoding scheme with prefix-preserving encryption
-	\item Design a generalized multi-view outsourcing scheme against inference attacks
+* Propose a general prefix-aware encoding scheme with prefix-preserving encryption
+* Design a generalized multi-view outsourcing scheme against inference attacks
 
 ## Previous Research Before PhD
 I maily take responsibility for the NFC system design and develplement, while I am also intersted in other areas of research, includes docker, smart grid. 
