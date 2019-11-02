@@ -16,6 +16,9 @@ I got my bachelor degree in Electrical Engineering and second major in Informati
 
 My reserach foucses on SMC protcol and Data Privacy, while I am also broadly interested in cloud & container applications, includes kubernetes & docker; and mobile systems, etc.
 
+## Selected Publications 
+\textbf{Shangyu Xie}, Yuan Hong and Peng-Jun Wan. PAIRING: Privately Balancing Multiparty Real-time Supply and Demand on the Power Grid. \emph{IEEE Transactions on Information Forensics and Security (\textbf{TIFS})}, Accepted, 2019.
+
 ## Contact
 
 #### Address ####
