@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="/img/profile.jpg">
+<img class="profile-picture" src="/img/self.jpg">
 
 Currently I am a PhD student of Computer Science at Illinois Institute of Technology. I am fortunate to be supervised via Prof. [Yuan Hong](http://cs.iit.edu/~yhong/).
 
