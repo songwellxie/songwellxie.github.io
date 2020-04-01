@@ -17,8 +17,10 @@ I previously worked as research assistant of Deparment of Computing at HK PolyU.
 My reserach foucses on Secure Multiparty Computation, Differential Privacy, Anonymity, while I am also broadly interested in IoT, smart grid, cloud computing, etc..
 
 ## Selected Publications 
-1.  **Shangyu Xie**, Yuan Hong and Peng-Jun Wan. "PAIRING: Privately Balancing Multiparty Real-time Supply and Demand on the Power Grid." *IEEE Transactions on Information Forensics and Security (**TIFS**)*, Accepted, 2019.
-2.  **Shangyu Xie**, Yuan Hong and Peng-Jun Wan. "A Privacy Preserving Multiagent System for Load Balancing in the Smart Grid." In *Proceedings of the 18th International Conference on Autonomous Agents and Multiagent Systems (**AAMAS '19**)*, 2019. 
+1.  **Shangyu Xie**, Han Wang, Yuan Hong and My Thai, Privacy Preserving Distributed Energy Trading, in Proceedings of the 40th International Conference on Distributed Computing Systems (**ICDCS '20**), 2020, Accepted.
+2.  **Shangyu Xie**, Yuan Hong and Peng-Jun Wan. "PAIRING: Privately Balancing Multiparty Real-time Supply and Demand on the Power Grid." *IEEE Transactions on Information Forensics and Security (**TIFS**)*, 2020.
+3.  Bingyu Liu, **Shangyu Xie**, Han Wang, Yuan Hong, Xuegang Ban and Meisam Mohammady, VTDP: Privately Sanitizing Fine-grained Vehicle Trajectory Data with Boosted Utility, IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2019, Accepted.
+4.  **Shangyu Xie**, Yuan Hong and Peng-Jun Wan. "A Privacy Preserving Multiagent System for Load Balancing in the Smart Grid." In *Proceedings of the 18th International Conference on Autonomous Agents and Multiagent Systems (**AAMAS '19**)*, 2019. 
 
 ## Contact
 
