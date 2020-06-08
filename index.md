@@ -1,7 +1,8 @@
+<link rel="stylesheet" type="text/css" href="auto-number-title.css" />
 ---
 layout: default
 ---
-<link rel="stylesheet" type="text/css" href="auto-number-title.css" />
+
 ## About Me
 
 <img class="profile-picture" src="/img/profile.jpg">
