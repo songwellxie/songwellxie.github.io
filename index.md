@@ -14,7 +14,7 @@ I previously worked as research assistant of Deparment of Computing at HK PolyU.
 
 ## Research Interest
 
-My reserach foucses on Secure Multiparty Computation, Differential Privacy, Anonymity, while I am also broadly interested in IoT, smart grid, cloud computing, etc..
+My reserach foucses on Secure Multiparty Computation, Differential Privacy, Adversarial ML, while I am also broadly interested in IoT, smart grid, cloud computing, etc..
 
 ## Selected Publications 
 
