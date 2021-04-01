@@ -4,8 +4,6 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="/img/profile.jpg">
-
 Currently I am a PhD student of Computer Science at Illinois Institute of Technology. I am fortunate to be supervised via Prof. [Yuan Hong](http://cs.iit.edu/~yhong/).
 
 I got my bachelor degree in Electrical Engineering and second major in Information Engineering at Shanghai Jiao Tong University, affiliated with IEEE Honor Class. My supervisor is Prof. [Xinbing Wang](http://www.cs.sjtu.edu.cn/~wang-xb/).
