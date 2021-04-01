@@ -28,6 +28,22 @@ My research focus on Secure Multiparty Computation, Differential Privacy, Advers
 
 6\.  **Shangyu Xie**, Yuan Hong and Peng-Jun Wan. "A Privacy Preserving Multiagent System for Load Balancing in the Smart Grid." In *Proceedings of the 18th International Conference on Autonomous Agents and Multiagent Systems (**AAMAS'19**)*, 2019. 
 
+
+## Current Research 
+
+### Real-time Secure Multiparty Computation Systems in the Smart Grid
+* Design MPC protocols for load balancing/energy trading/energy sharing
+* Develop the real-time prototype which integrates MPC protocols with power emulation system
+
+### Differentially Private Data Sanitization
+* Design sampling based DP schemes for fine-grained vehicle trajectory data, and conduct experiments
+* Implement the video analysis platform with differential privacy guarantee  
+* Implement machine learning related experiments with DP
+
+### Multi-view Outsourcing Platform for Prefix-preserving Data
+* Propose a general prefix-aware encoding scheme with prefix-preserving encryption
+* Design a generalized multi-view outsourcing scheme against inference attacks
+
 ## Contact
 
 Address: Department of Computer Science, IIT, Chicago, IL.
