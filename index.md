@@ -1,6 +1,4 @@
----
-layout: default
----
+# Shangyu Xie 
 
 ## About Me
 
@@ -16,17 +14,17 @@ My research focus on Secure Multiparty Computation, Differential Privacy, Advers
 
 ## Selected Publications 
 
-1\. Meisam Mohammady, **Shangyu Xie**, Yuan Hong, Mengyuan Zhang, Lingyu Wang, Makan Pourzandi and Mourad Debbabi, R2DP: A Universal and Automated Approach to Optimizing the Randomization Mechanisms of Differential Privacy for Utility Metrics with No Known Optimal Distributions, in Proceedings of the 27th ACM Conference on Computer and Communications Security (**CCS'20**), Orlando, FL, November 9-13, 2020, Accepted.
+6\. Meisam Mohammady, **Shangyu Xie**, Yuan Hong, Mengyuan Zhang, Lingyu Wang, Makan Pourzandi and Mourad Debbabi, R2DP: A Universal and Automated Approach to Optimizing the Randomization Mechanisms of Differential Privacy for Utility Metrics with No Known Optimal Distributions, in Proceedings of the 27th ACM Conference on Computer and Communications Security (**CCS'20**), Orlando, FL, November 9-13, 2020, Accepted.
 
-2\. Han Wang, **Shangyu Xie** and Yuan Hong, VideoDP: A Flexible Platform for Video Analytics with Differential Privacy, in Proceedings of the 20th Privacy Enhancing Technologies Symposium (**PETS'20**), Montreal, Canada, July 14-18, 2020, Accepted. 
-
-3\.  **Shangyu Xie**, Han Wang, Yuan Hong and My Thai, Privacy Preserving Distributed Energy Trading, in Proceedings of the 40th International Conference on Distributed Computing Systems (**ICDCS'20**), 2020, Accepted.
+5\.  **Shangyu Xie**, Han Wang, Yuan Hong and My Thai, Privacy Preserving Distributed Energy Trading, in Proceedings of the 40th International Conference on Distributed Computing Systems (**ICDCS'20**), 2020, Accepted.
 
 4\.  **Shangyu Xie**, Yuan Hong and Peng-Jun Wan. "PAIRING: Privately Balancing Multiparty Real-time Supply and Demand on the Power Grid." *IEEE Transactions on Information Forensics and Security (**TIFS**)*, 2020.
 
-5\.  Bingyu Liu, **Shangyu Xie**, Han Wang, Yuan Hong, Xuegang Ban and Meisam Mohammady, VTDP: Privately Sanitizing Fine-grained Vehicle Trajectory Data with Boosted Utility, IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2019, Accepted.
+3\. Han Wang, **Shangyu Xie** and Yuan Hong, VideoDP: A Flexible Platform for Video Analytics with Differential Privacy, in Proceedings of the 20th Privacy Enhancing Technologies Symposium (**PETS'20**), Montreal, Canada, July 14-18, 2020, Accepted. 
 
-6\.  **Shangyu Xie**, Yuan Hong and Peng-Jun Wan. "A Privacy Preserving Multiagent System for Load Balancing in the Smart Grid." In *Proceedings of the 18th International Conference on Autonomous Agents and Multiagent Systems (**AAMAS'19**)*, 2019. 
+2\.  Bingyu Liu, **Shangyu Xie**, Han Wang, Yuan Hong, Xuegang Ban and Meisam Mohammady, VTDP: Privately Sanitizing Fine-grained Vehicle Trajectory Data with Boosted Utility, IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2019, Accepted.
+
+1\.  **Shangyu Xie**, Yuan Hong and Peng-Jun Wan. "A Privacy Preserving Multiagent System for Load Balancing in the Smart Grid." In *Proceedings of the 18th International Conference on Autonomous Agents and Multiagent Systems (**AAMAS'19**)*, 2019. 
 
 
 ## Current Research 
