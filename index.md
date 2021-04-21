@@ -1,7 +1,7 @@
 # Shangyu Xie 
 
 
-![](./me.jpeg)
+![](me.jpeg)
 
 ## About Me
 
