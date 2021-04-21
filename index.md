@@ -1,7 +1,7 @@
 # Shangyu Xie 
 
 
-![avatar](me.jpeg)
+![](./me.jpeg)
 
 ## About Me
 
