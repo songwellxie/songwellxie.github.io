@@ -17,7 +17,9 @@ My research focus on Secure Multiparty Computation, Differential Privacy, Advers
 
 ## Selected Publications 
 
-6\. Meisam Mohammady, **Shangyu Xie**, Yuan Hong, Mengyuan Zhang, Lingyu Wang, Makan Pourzandi and Mourad Debbabi, R2DP: A Universal and Automated Approach to Optimizing the Randomization Mechanisms of Differential Privacy for Utility Metrics with No Known Optimal Distributions, in Proceedings of the 27th ACM Conference on Computer and Communications Security (**CCS'20**), Orlando, FL, November 9-13, 2020, Accepted.
+7\. **Shangyu Xie**, Meisam Mohammady, Han Wang, Lingyu Wang, Jaideep Vaidya and Yuan Hong, "A Generalized Framework for Preserving Both Privacy and Utility in Data Outsourcing", *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, Accepted, 2021
+
+6\. Meisam Mohammady, **Shangyu Xie**, Yuan Hong, Mengyuan Zhang, Lingyu Wang, Makan Pourzandi and Mourad Debbabi, R2DP: A Universal and Automated Approach to       Optimizing the Randomization Mechanisms of Differential Privacy for Utility Metrics with No Known Optimal Distributions, in Proceedings of the 27th ACM           Conference on Computer and Communications Security (**CCS'20**), Orlando, FL, November 9-13, 2020, Accepted.
 
 5\.  **Shangyu Xie**, Han Wang, Yuan Hong and My Thai, Privacy Preserving Distributed Energy Trading, in Proceedings of the 40th International Conference on Distributed Computing Systems (**ICDCS'20**), 2020, Accepted.
 
